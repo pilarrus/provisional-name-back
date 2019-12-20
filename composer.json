@@ -1,4 +1,6 @@
 {
+    "name": "provisional-name-back",
+    "description": "",
     "type": "project",
     "license": "proprietary",
     "require": {
